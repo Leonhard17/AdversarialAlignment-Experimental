@@ -13,6 +13,10 @@ ENV/
 # Data files
 *.txt
 *.pkl
+*.zip
+
+# WandB files
+wandb/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
