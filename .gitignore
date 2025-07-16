@@ -1,0 +1,35 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Data files
+*.txt
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model files
+*.pt
+*.pth
+
+# Hugging Face Transformers models
+*.json
+*.safetensors
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
